@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 428b35af66b1ab44c9cca9bb53864745, type: 3}
+  m_Name: SaveSystem
+  m_EditorClassIdentifier: 
+  saveSettingsEvent: {fileID: 11400000, guid: 7d0a8212efc306240a18cd06866c9f00, type: 2}
+  loadLocation: {fileID: 11400000, guid: 7606addbca4110e438dbdcd36642e93c, type: 2}
+  currentSettings: {fileID: 11400000, guid: 28f00faa8e8782a4eafe8f03baf253d3, type: 2}
+  saveFilename: save.ProjX
+  backupSaveFilename: save.ProjX.bak
+  saveData:
+    _locationId: 
+    _itemStacks: []
+    _finishedQuestlineItemsGUIds: []
+    _masterVolume: 0
+    _musicVolume: 0
+    _sfxVolume: 0
+    _resolutionsIndex: 0
+    _antiAliasingIndex: 0
+    _shadowDistance: 0
+    _isFullscreen: 0
+    _currentLocale: {fileID: 0}

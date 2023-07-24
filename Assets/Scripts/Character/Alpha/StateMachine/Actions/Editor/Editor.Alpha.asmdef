@@ -1,0 +1,21 @@
+{
+  "name": "Editor.Alpha",
+  "rootNamespace": "",
+  "references": [
+    "GUID:3c9c281df1f3f924aadbeb6eb59f93d5",
+    "GUID:f39635f34f7ab58428b5f9d02f0a701d",
+    "GUID:a1d458e58c449e541a3bf4fa1480a14e",
+    "GUID:c9abe4f80683fd5489ae74e2ebeca12c"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

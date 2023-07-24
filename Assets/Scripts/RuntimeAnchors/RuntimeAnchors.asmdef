@@ -1,0 +1,19 @@
+{
+  "name": "RuntimeAnchors",
+  "rootNamespace": "",
+  "references": [
+    "GUID:79ac699075dc41698404ee05cd9d1581",
+    "GUID:781c97eafcb646088662393a94b4792b"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [
+    ""
+  ],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
